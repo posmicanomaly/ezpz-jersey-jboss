@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings/
+standalone/configuration/standalone_xml_history/
+standalone/data/
+standalone/deployments/
+standalone/log/
+standalone/tmp/
+target/
